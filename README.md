@@ -10,7 +10,7 @@
 2. PDM (PHYSICAL DATA MODEL)
 <img src="Design/PDM.png">
 
-## II. PSEUDO CODE
+## II. PSEUDO CODES
 
 1. UserController (for managing CRUD and view functions in users list)
 2. class UserController extends Controller
