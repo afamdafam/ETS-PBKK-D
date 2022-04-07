@@ -4,9 +4,10 @@
 
 ## I. DATABASE DESIGN
 
-### 1. CDM (CONCEPTUAL DATA MODEL)
+1. CDM (CONCEPTUAL DATA MODEL)
 <img src="Design/CDM.png">
-### 2. PDM (PHYSICAL DATA MODEL)
+
+2. PDM (PHYSICAL DATA MODEL)
 <img src="Design/PDM.png">
 
 ## II. PSEUDO CODE
