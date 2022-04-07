@@ -13,8 +13,9 @@
 
 1. UserController (for managing CRUD and view functions in users list)
 2. class UserController extends Controller
-         - `index() // viewing list`
-	 - `create() // inserting a new user data`
-	 - `edit() // viewing editing form`
-	 - `update() // updating a user data`
-	 - `delete() // deleting user data`
+
+	- `index() // viewing list`
+	- `create() // inserting a new user data`
+	- `edit() // viewing editing form`
+	- `update() // updating a user data`
+	- `delete() // deleting user data`
